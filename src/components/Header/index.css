@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.logo-box {
+  display: flex;
+  padding: 10px;
+}
+
+.details {
+  display: flex;
+}
